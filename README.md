@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nazim-hasan
-- 👀 I’m interested in Devlopment
-- 🌱 I’m currently learning Web devlopment
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on web related project
 - 📫 How to reach me discord or here
 
