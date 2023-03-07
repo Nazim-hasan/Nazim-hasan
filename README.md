@@ -3,13 +3,13 @@
 <h3 align="center">A passionate developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently working with **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nazim-hasan](https://github.com/nazim-hasan)
 
-- 💬 Ask me about **react, laravel, express js, node js, sql**
+- 💬 Ask me about **react-native, react , laravel, express js, node js, sql**
 
-- 📫 How to reach me **nazimhasan124073@gmail.com**
+- 📫 How to reach me **dev.nazim99@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13Jm2e3239q-xs-pWT5LVEZ9YAFt5hCnB/view?usp=sharing](https://drive.google.com/file/d/13Jm2e3239q-xs-pWT5LVEZ9YAFt5hCnB/view?usp=sharing)
 
