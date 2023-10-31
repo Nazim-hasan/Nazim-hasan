@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nazim-hasan](https://github.com/nazim-hasan)
 
-- 💬 Ask me about **react-native, react , laravel, express js, node js, sql**
+- 💬 Ask me about **react-native, node js**
 
-- 📫 How to reach me **dev.nazim99@gmail.com**
+- 📫 How to reach me **connect.nazimhasan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13Jm2e3239q-xs-pWT5LVEZ9YAFt5hCnB/view?usp=sharing](https://drive.google.com/file/d/13Jm2e3239q-xs-pWT5LVEZ9YAFt5hCnB/view?usp=sharing)
 
