@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nazim Hasan</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
-<a href="https://app.daily.dev/nazim007" align="center"><img align="center" src="https://api.daily.dev/devcards/v2/CIEzUSHp4xtRCiG6RK3my.png?r=u9r&type=wide" width="652" alt="Nazim Hasan's Dev Card"/></a>
+<div style="text-align:center">
+<a href="https://app.daily.dev/nazim007"><img src="https://api.daily.dev/devcards/v2/CIEzUSHp4xtRCiG6RK3my.png?r=u9r&type=wide" width="652" alt="Nazim Hasan's Dev Card"/></a>
+</div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently working with **React Native**
